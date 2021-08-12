@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console_programlama", "console_programlama\console_programlama.csproj", "{8898EA10-492C-45D4-B177-D643F08BD12E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "console_programlama", "console_programlama\console_programlama.csproj", "{8898EA10-492C-45D4-B177-D643F08BD12E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "degiskenler", "degiskenler\degiskenler.csproj", "{8C4D181A-84C2-434E-9573-BAB56AAC7091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "degiskenler", "degiskenler\degiskenler.csproj", "{8C4D181A-84C2-434E-9573-BAB56AAC7091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operatorler", "operatorler\operatorler.csproj", "{45EC3D44-7BB1-4FBC-8B44-500FD4056D48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "operatorler", "operatorler\operatorler.csproj", "{45EC3D44-7BB1-4FBC-8B44-500FD4056D48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{94C4C775-DEF9-4DF8-9548-1F9321BEE54A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{94C4C775-DEF9-4DF8-9548-1F9321BEE54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hata-yonetimi", "hata-yonetimi\hata-yonetimi.csproj", "{926D3421-BE70-4342-B012-B4194D1B62A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{94C4C775-DEF9-4DF8-9548-1F9321BEE54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94C4C775-DEF9-4DF8-9548-1F9321BEE54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94C4C775-DEF9-4DF8-9548-1F9321BEE54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926D3421-BE70-4342-B012-B4194D1B62A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926D3421-BE70-4342-B012-B4194D1B62A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926D3421-BE70-4342-B012-B4194D1B62A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926D3421-BE70-4342-B012-B4194D1B62A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
