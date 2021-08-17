@@ -23,10 +23,14 @@ namespace donguler_for_loop
             }
             int tekToplam = 0;
             int ciftToplam = 0;
-            for (int i = 1; i < 1000; i++)
+            for (int i = 1; i < 10; i++)
             {
-                if (i%2 ==1 )
+                if (i % 2 == 1)
+                {
+                    Console.WriteLine(i);
                     tekToplam += i;
+                }
+                    
                 else
                     ciftToplam += i;
             }
