@@ -29,8 +29,7 @@ namespace donguler_for_loop
                 {
                     Console.WriteLine(i);
                     tekToplam += i;
-                }
-                    
+                }           
                 else
                     ciftToplam += i;
             }

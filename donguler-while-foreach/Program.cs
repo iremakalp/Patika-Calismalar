@@ -29,12 +29,12 @@ namespace donguler_while_foreach
             }
 
             //foreach
-            //
-            string[] arabalar =  {"bmv","ford","Toyota" };
+             string[] arabalar =  {"bmv","ford","Toyota" };
             foreach (var araba in arabalar)
             {
                 Console.WriteLine(araba);
             }
+           
         }
     }
 }
